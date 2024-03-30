@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #F6BD60;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+}
+
+a.deco {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-family: "Montserrat";
+}
+
+.footer {
+    background-color: #5E6472;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
